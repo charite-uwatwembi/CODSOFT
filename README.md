@@ -60,5 +60,5 @@ Hosted the project management tool on 000webhost, GitHub Pages, Netlify, Heroku,
 Feel free to explore the folders in this repository to find solutions to each task. If you have any questions or suggestions, please [contact me](mailto:[chariteuwatwembi@gmail.com]).
 
 **Charite Uwatwembi  
-chariteuwatwembi@gmail.com 
+Phone : 
 +250789951064**
