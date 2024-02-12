@@ -4,7 +4,7 @@ Welcome to CODSOFT, a repository containing solutions to various web development
 
 ## LEVEL 1 TASK 1: Personal Portfolio
 
-Create a personal portfolio using HTML and CSS. Showcase your skills, projects, and provide a download link for your resume in PDF format.
+Create a personal portfolio using HTML and CSS. Showcasing my skills, projects, and providing a download link for my resume in PDF format.
 
 ### Project Structure
 
@@ -35,25 +35,10 @@ Created a basic calculator using HTML, CSS, and JavaScript. Implemented an inter
 - Used CSS grid for button alignments.
 - Implemented event listeners, if-else statements, operators, and loops.
 
-## LEVEL 2 TASK 1: Job Portal
-
-Built a job portal with features like home page, job listings, job detail page, employer and candidate dashboards, job application process, search functionality, email notifications, user authentication, and mobile responsiveness.
-
-## LEVEL 2 TASK 2: Online Quiz Maker
-
-Developed a platform for creating and taking quizzes. Included features such as quiz creation, quiz taking, quiz results, quiz listing, user authentication, and mobile responsiveness.
-
-## LEVEL 3 TASK 1: E-commerce Website
-
-Created an e-commerce website with product browsing, shopping cart functionality, checkout process, user authentication, product filtering, and payment integration using React, Node.js, and MongoDB.
-
-## LEVEL 3 TASK 2: Project Management Tool
-
-Built a project management tool with features like project creation, task assignment, deadline setting, progress tracking using React, Node.js, and a database like MongoDB or PostgreSQL.
 
 ### Hosting
 
-Hosted the project management tool on 000webhost, GitHub Pages, Netlify, Heroku, or any other free hosting provider.
+Hosted the project management tool on GitHub Pages.
 
 ---
 
